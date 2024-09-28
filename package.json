@@ -1,7 +1,7 @@
 {
     "name": "SkyBeWorld-Launcher",
     "preductname": "SkyBeWorld Launcher",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "SkyBeWorld modded server launcher",
     "main": "src/app.js",
     "author": "GeantWorld/Riptiaz/Boulldogo/Vexato/Luuxis",
