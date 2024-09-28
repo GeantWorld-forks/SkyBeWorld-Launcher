@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
-    "version": "3.0.0",
-    "description": "Conflictura modded server launcher",
+    "name": "SkyBeWorld-Launcher",
+    "preductname": "SkyBeWorld Launcher",
+    "version": "2.0.0",
+    "description": "SkyBeWorld modded server launcher",
     "main": "src/app.js",
-    "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
-    "settings": "https://dev.conflictura.eu",
+    "author": "GeantWorld/Riptiaz/Boulldogo/Vexato/Luuxis",
+    "settings": "https://launcher.skybeworld.com",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/GeantWorld-forks/SkyBeWorld-Launcher.git"
     }
 }
